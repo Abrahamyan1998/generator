@@ -1,0 +1,35 @@
+.Style{
+    margin-left: 10%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    color: #414141;
+    font-size: 18px;
+  
+
+
+    
+}
+
+.Style button{
+    margin-left: 0.5%;
+    width: 80px;
+    height: 30px;
+    font-size: 18px;
+    background-color: #EEEEEE;
+
+}
+
+.Style button:hover{
+    background-color: #D0E4F5;
+
+}
+
+.Style .Style2{
+    margin-left: 3%;
+    
+}
+.Style .Style3{
+    margin-left: 3%;
+    
+}

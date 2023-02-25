@@ -1,23 +1,26 @@
-import logo from './logo.svg';
 import './App.css';
+import Color from './Componet/Color';
+import HeaderBorderOutline from './Componet/HeaderBorderOutline';
+import HeaderText from './Componet/HeaderText';
+import Position from './Componet/Position';
+import Style from './Componet/Style';
+import Width from './Componet/Width';
+import Slyder4 from './Componet/Slyder4';
+
+
 
 function App() {
+
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        <HeaderText/>
+        <HeaderBorderOutline/>
+        <Width/>
+        <Style/>
+        <Color/>
+        <Position/>
+        <Slyder4/>
     </div>
   );
 }

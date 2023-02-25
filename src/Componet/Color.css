@@ -1,0 +1,41 @@
+.Color{
+    margin-left: 10%;
+    margin-top: 2%;
+
+    display: flex;
+    gap: 5px;
+    color: #414141;
+    font-size: 10px;
+}
+
+.Color button{
+    width: 80px;
+    height: 30px;
+    font-size: 18px;
+    background-color: #c55858;
+    margin-top: 10px;
+    color: white;
+    
+}
+
+.Color .div{
+    width: 220px;
+    height: 25px;
+    background-color: #939597;
+    border: none;
+    color: white;
+    border-radius: 2px;
+    margin-top: 12px;
+
+}
+
+.Color .button1{
+    width: 20px;
+    height: 25px;
+    background-color: #1E6FA5;
+    border: none;
+    color: white;
+    border-radius: 2px;
+    margin-top: 12px;
+
+}

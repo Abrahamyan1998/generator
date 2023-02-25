@@ -1,0 +1,26 @@
+
+.HeaderBorderOutline button{
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    font-size: 24px;
+    padding: 5px;
+    margin: 20px 5px;
+
+}
+
+.HeaderBorderOutline .border1{
+    margin-left: 13%;
+    background-color: #D0E4F5;
+
+}
+
+.HeaderBorderOutline .border2{
+    
+    background-color: #ffffff;
+}
+
+.HeaderBorderOutline .border2:hover{
+    background-color: #D0E4F5;
+}
